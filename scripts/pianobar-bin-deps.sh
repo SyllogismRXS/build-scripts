@@ -38,6 +38,9 @@ DEPS_DPKG=(
     libgnutls-dev
     libjson0-dev
     libgcrypt11-dev
+    libavformat-dev
+    libavfilter-dev
+    libavfilter-extra-3
 )
 
 # Dependencies only for ArchLinux
